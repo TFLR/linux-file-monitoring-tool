@@ -97,7 +97,7 @@ You will see a **text menu** similar to:
 * 6 – Open GTK interface
 * 7 – Quit
 
-![alt text](image.png)
+<img width="538" height="172" alt="image" src="https://github.com/user-attachments/assets/6be7e8b3-bb43-46c8-874c-e60f06ea4987" />
 
 You can:
 
