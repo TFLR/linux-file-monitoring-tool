@@ -73,7 +73,7 @@ cd Outil-de-Monitoring
 make
 ```
 
-If everything is fine, an executable named `projet` is created at the root of the repository.
+If everything is fine, an executable named `file_monitor` is created at the root of the repository.
 
 ---
 
@@ -84,7 +84,7 @@ If everything is fine, an executable named `projet` is created at the root of th
 ### Run from the terminal
 
 ```bash
-sudo ./projet
+sudo ./file_monitor
 ```
 
 You will see a **text menu** similar to:
@@ -123,7 +123,7 @@ In the GUI you can:
 1. Start the program:
 
    ```bash
-   sudo ./projet
+   sudo ./file_monitor
    ```
 
 2. Add one or more **sensitive paths** (for example configuration files, scripts, keys…).
