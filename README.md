@@ -1,31 +1,3 @@
-Parfait, on clean tout ça correctement 👍
-
-Je te donne :
-
-1. **Description courte GitHub** (le champ sous le nom du repo)
-2. **Topics** à mettre sur GitHub
-3. **README complet** prêt à coller (rien à modifier)
-
----
-
-### 1️⃣ Description courte (champ “Description” sur GitHub)
-
-Tu peux mettre :
-
-> Linux file monitoring tool in C using inotify and GTK, to watch sensitive files, track permission changes and log security events.
-
----
-
-### 2️⃣ Topics GitHub
-
-À ajouter dans les tags du repo :
-
-`linux` · `c` · `inotify` · `gtk` · `security` · `file-monitoring` · `permissions` · `audit`
-
----
-
-### 3️⃣ README.md (copie/colle tel quel)
-
 # Linux File Monitoring Tool
 
 Linux file monitoring tool written in **C**, using **inotify** and **GTK+ 3**.
