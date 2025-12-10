@@ -64,7 +64,7 @@ sudo apt-get install -y build-essential libgtk-3-dev pkg-config
 
 ```bash
 git clone https://github.com/TFLR/Linux-File-Monitoring-Tool.git
-cd Outil-de-Monitoring
+cd Linux-File-Monitoring-Tool
 ```
 
 ### Build
